@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Alice",
+    "age": 35,
+    "job": "IT Manager",
+    "budget": "$600,000",
+    "message": "Looking for a family-friendly home in Melbourne, planning to invest long-term."
+  },
+  {
+    "name": "Bob",
+    "age": 28,
+    "job": "Freelancer",
+    "budget": "$300,000",
+    "message": "Not sure if I want to invest yet, just researching options in Brisbane."
+  },
+  {
+    "name": "Charlie",
+    "age": 42,
+    "job": "Marketing Director",
+    "budget": "$1,200,000",
+    "message": "Interested in luxury properties in Sydney, ready to buy immediately."
+  },
+  {
+    "name": "Diana",
+    "age": 30,
+    "job": "Graphic Designer",
+    "budget": "$450,000",
+    "message": "Looking for a modern apartment in Melbourne, open to renting first."
+  },
+  {
+    "name": "Ethan",
+    "age": 50,
+    "job": "Business Owner",
+    "budget": "$2,000,000",
+    "message": "Seeking investment properties in Perth, experienced in real estate."
+  },
+  {
+    "name": "Fiona",
+    "age": 26,
+    "job": "Software Engineer",
+    "budget": "$400,000",
+    "message": "First-time buyer, interested in affordable homes in Adelaide."
+  },
+  {
+    "name": "George",
+    "age": 38,
+    "job": "Sales Executive",
+    "budget": "$800,000",
+    "message": "Looking for a spacious home in Brisbane, family-oriented."
+  },
+  {
+    "name": "Hannah",
+    "age": 32,
+    "job": "Teacher",
+    "budget": "$500,000",
+    "message": "Interested in suburban homes in Melbourne, flexible with budget."
+  },
+  {
+    "name": "Ian",
+    "age": 45,
+    "job": "Consultant",
+    "budget": "$1,000,000",
+    "message": "Exploring options for a vacation home in Gold Coast, ready to invest."
+  }
+]
