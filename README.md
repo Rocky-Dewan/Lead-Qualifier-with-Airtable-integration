@@ -72,9 +72,11 @@ python main.py
 Sample Output
 qualified_leads.csv: Contains structured leads with extracted insights
 
+<img width="1940" height="881" alt="image" src="https://github.com/user-attachments/assets/d60b27b0-3795-4837-b00a-a99652ee3c58" />
 
 
 Airtable: Your configured base will be updated with each lead record
+<img width="1740" height="631" alt="image" src="https://github.com/user-attachments/assets/99b254e8-8803-4041-a49e-da03f7794f9c" />
 
 
 
