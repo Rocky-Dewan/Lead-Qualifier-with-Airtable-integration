@@ -1,0 +1,10 @@
+COHERE_API_KEY=your cohere api key
+
+
+
+
+AIRTABLE_PAT=Airtable PAT api key
+AIRTABLE_BASE_ID= Base URL 
+AIRTABLE_TABLE_NAME= table name
+
+
